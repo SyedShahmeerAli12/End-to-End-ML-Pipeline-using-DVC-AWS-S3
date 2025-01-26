@@ -1,2 +1,2 @@
-# ML-OPS-Complete-Pipeline
-This project covers the entire End to End to machine learning pipeline and working around it using DVC for experiment tracking and Data versioning using AWS S3
+# YT-MLOPS-Complete-ML-Pipeline
+This project covers the end to end understanding for creating an ML pipeline and working around it using DVC for experiment tracking and data versioning(using AWS S3)
